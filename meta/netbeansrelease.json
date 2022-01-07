@@ -573,7 +573,7 @@
     },
     "RELEASE130": {
         "position": 16,
-        "abc": "def"
+        "ant": "ant_latest"
     },
     "master": {
         "position": "50000",
