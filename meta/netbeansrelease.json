@@ -571,13 +571,13 @@
             "year": "2021"
         }
     },
-    "RELEASE130": {
+    "RELEASERELEASE130": {
         "position": 16,
         "ant": "ant_latest",
-        "jdk": "jdk_11_latest",
+        "jdk": "JDK_11_latest",
         "jdk_apidoc": "https://docs.oracle.com/javase/8/docs/api/",
         "maven": "maven_3.3.9",
-        "versionName": "130"
+        "versionName": "RELEASE130"
     },
     "master": {
         "position": "50000",
