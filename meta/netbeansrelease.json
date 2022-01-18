@@ -574,7 +574,7 @@
     "RELEASE130": {
         "position": 16,
         "ant": "ant_latest",
-        "jdk": "17",
+        "jdk": "11",
         "jdk_apidoc": "https://docs.oracle.com/javase/8/docs/api/",
         "maven": "maven_3.3.9",
         "versionName": "130"
